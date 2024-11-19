@@ -6,32 +6,33 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'état (_state_) pour contrôler l'affichage d'un composant ❌ / ✔️
-- les composants enfants et les _props_ qu'on leur passe ❌ / ✔️
-- le déclenchement d'instructions en fonction des actions de l'utilisateur ❌ / ✔️
-- le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ❌ / ✔️
-- l'usage d'un reducer (_useReducer_) pour gérer un état composé dans un composant
-- l'état stocké dans un composant avec un _context provider_ et accessible dans ses descendants via `useContext` ❌ / ✔️
+- l'état (_state_) pour contrôler l'affichage d'un composant ✔️ permet de stocker et de gérer les données dynamiques d'un composant, déclenchant une mise à jour de l'interface utilisateur chaque fois qu'il change.
+- les composants enfants et les _props_ qu'on leur passe ✔️ Les composants enfants en React sont des composants imbriqués dans un autre composant, et les props sont des valeurs ou fonctions passées de parent à enfant pour personnaliser leur comportement ou contenu.
+- le déclenchement d'instructions en fonction des actions de l'utilisateur ✔️ onClick, onChange
+- le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ✔️ useEffect
+- l'usage d'un reducer (_useReducer_) pour gérer un état composé dans un composant ❌
+- l'état stocké dans un composant avec un _context provider_ et accessible dans ses descendants via `useContext` ❌ 
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](...)https://github.com/ThomGateau/portfolio
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌ 
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel  ✔️
 
 Description :
+Création de composant react lors de mon stage 
 
 ## 🌐 J'utilise des ressources
 
