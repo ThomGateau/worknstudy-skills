@@ -8,11 +8,11 @@
 
 - Différence entre Agile et SCRUM ❌ / ✔️
 - Expliquer les différents rituels et leur intérêt : ❌ / ✔️
-  - Daily Stand Up
-  - Sprint planning
-  - Retro
-  - Grooming
-  - Poker planning
+  - Daily Stand Up : expliquer les points de difficultées
+  - Sprint planning : définir les prochaines taches
+  - Retro : revenir sur ce qui à était bien fait, mal fait, ce qui peut etre mieux fait
+  - Grooming ❌
+  - Poker planning ❌
 - Expliquer les différents roles ❌ / ✔️
   - SCRUM master
   - Product Owner
