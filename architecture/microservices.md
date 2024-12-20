@@ -6,8 +6,8 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les différences avec l'architecture monolithique ❌ / ✔️
-- la communication asynchrone entre services ❌ / ✔️
+- les différences avec l'architecture monolithique ✔️ : Un service monolithique regroupe toutes les fonctionnalités dans une seule application, tandis que les microservices divisent ces fonctionnalités en plusieurs services indépendants qui communiquent entre eux.
+- la communication asynchrone entre services ✔️ : Via une api gateway
 - le deploiement d'un cluster ❌ / ✔️
 
 
